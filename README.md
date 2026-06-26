@@ -1,81 +1,161 @@
-<h1 align="center">Hi 👋, I'm Sanjai S</h1>
+# 👋 Hi, I'm **Sanjai S**
 
-<h3 align="center">
-Computer Science Engineering Student | Full Stack Developer | AI Enthusiast
-</h3>
-
+```{=html}
 <p align="center">
-Passionate about building real-world applications that solve practical problems.
-Always learning, always improving.
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Computer+Science+Engineering+Student;AI+Enthusiast;Building+Real+World+Projects" />`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/CGPA-9.x-orange?style=for-the-badge"/>`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 BE Computer Science Engineering Student  
-🏫 Shree Venkateshwara Hi-Tech Engineering College
+🎓 Computer Science Engineering Student
 
-📍 Tamil Nadu, India
+💻 Passionate about Full Stack Development, AI and Software Engineering.
 
-💻 Passionate about
-- Full Stack Development
-- Artificial Intelligence
-- Web Development
-- Software Engineering
-- Problem Solving
+🌱 Currently Learning: - Java - Spring Boot - React - Node.js -
+Express - MySQL
 
-🌱 Currently Learning
-- Java
-- Advanced React
-- Node.js
-- Express.js
-- MySQL
-- REST APIs
+🎯 Goal: \> Build impactful software and become a Software Engineer.
 
-🎯 Goal
-> To become a Software Engineer who builds scalable and impactful applications.
+------------------------------------------------------------------------
 
----
-
-## 💻 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+`Java` `Python` `JavaScript` `HTML` `CSS` `SQL`
 
-### Frameworks & Libraries
+### Frameworks
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+`React` `Node.js` `Express` `Bootstrap`
+
+### Database
+
+`MySQL`
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
+`Git` `GitHub` `VS Code` `Netlify`
 
----
+------------------------------------------------------------------------
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-## ♻️ Recycle-Tech
+  -----------------------------------------------------------------------
+  Project                Description                      Tech
+  ---------------------- -------------------------------- ---------------
+  🎓 Academic Analyzer   Dashboard for analyzing          React, MySQL
+                         attendance, marks and academic   
+                         performance.                     
 
-An AI-powered waste management platform.
+  🧮 CGPA Calculator     Multi-semester CGPA calculator   HTML, CSS,
+                         with credit-based grading.       JavaScript
 
-### Features
+  ✅ Task Management     Organize tasks, priorities and   React
+  System                 progress tracking.               
 
-- AI Waste Identification
-- Smart Waste Pickup
-- Used Cooking Oil Collection
-- Reward System
-- Recycling Dashboard
-- User & Collector Modules
+  🌐 Portfolio Website   Responsive developer portfolio   React, Netlify
+                         showcasing projects and skills.  
 
-Tech Stack
+  📝 Blog Platform       Blogging platform with           React, Node.js,
+                         authentication, CRUD and         MySQL
+                         comments.                        
+
+  🛒 E-Commerce Website  Shopping platform with           React, Node.js,
+                         authentication, cart and order   Express, MySQL
+                         management.                      
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+```{=html}
+<p align="center">
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjai090&show_icons=true&theme=tokyonight"/>`{=html}
+
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjai090&layout=compact&theme=tokyonight"/>`{=html}
+
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com?user=sanjai090&theme=tokyonight"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjai090&theme=tokyo-night"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 📅 Developer Journey
+
+``` text
+2024 ─ Started Web Development
+      ├── HTML • CSS • JavaScript
+      ├── React
+      └── Internship
+
+2025 ─ Built Portfolio
+      ├── Academic Analyzer
+      ├── Task Management
+      └── CGPA Calculator
+
+2026 ─ Full Stack Journey
+      ├── Blog Platform
+      ├── E-Commerce
+      └── AI Projects
+```
+
+------------------------------------------------------------------------
+
+# 🌟 Current Focus
+
+-   🚀 Full Stack Development
+-   🤖 AI Integration
+-   ☁ Cloud Computing
+-   📚 Data Structures & Algorithms
+-   💼 Software Engineering
+
+------------------------------------------------------------------------
+
+# 📫 Connect With Me
+
+-   📧 Email: **sanjaisatheesh1913@gmail.com**
+-   💼 LinkedIn: **https://linkedin.com/in/sanjai-s-2b4bb5330**
+-   💻 GitHub: **https://github.com/sanjai090**
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+### ⭐ *"Turning Ideas into Scalable Software."*
+
+Thanks for visiting my profile! 🚀
+
+```{=html}
+</p>
+```
